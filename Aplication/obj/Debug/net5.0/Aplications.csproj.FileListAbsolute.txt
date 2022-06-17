@@ -1,0 +1,12 @@
+C:\Users\soumu\source\repos\TG4\Aplication\bin\Debug\net5.0\Aplications.deps.json
+C:\Users\soumu\source\repos\TG4\Aplication\bin\Debug\net5.0\Aplications.dll
+C:\Users\soumu\source\repos\TG4\Aplication\bin\Debug\net5.0\ref\Aplications.dll
+C:\Users\soumu\source\repos\TG4\Aplication\bin\Debug\net5.0\Aplications.pdb
+C:\Users\soumu\source\repos\TG4\Aplication\obj\Debug\net5.0\Aplications.csproj.AssemblyReference.cache
+C:\Users\soumu\source\repos\TG4\Aplication\obj\Debug\net5.0\Aplications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soumu\source\repos\TG4\Aplication\obj\Debug\net5.0\Aplications.AssemblyInfoInputs.cache
+C:\Users\soumu\source\repos\TG4\Aplication\obj\Debug\net5.0\Aplications.AssemblyInfo.cs
+C:\Users\soumu\source\repos\TG4\Aplication\obj\Debug\net5.0\Aplications.csproj.CoreCompileInputs.cache
+C:\Users\soumu\source\repos\TG4\Aplication\obj\Debug\net5.0\Aplications.dll
+C:\Users\soumu\source\repos\TG4\Aplication\obj\Debug\net5.0\ref\Aplications.dll
+C:\Users\soumu\source\repos\TG4\Aplication\obj\Debug\net5.0\Aplications.pdb
